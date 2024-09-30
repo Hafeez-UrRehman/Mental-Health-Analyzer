@@ -10,23 +10,23 @@ Mental health issues are a growing concern, and early detection is critical for 
 
 The dataset includes several features that can predict mental and emotional states, behaviors, and physical symptoms:
 
-feeling.nervous: Frequency of feeling nervous
-panic: Occurrence of panic attacks
-breathing.rapidly: Instances of rapid breathing
-sweating: Frequency of sweating due to anxiety
-trouble.in.concentration: Difficulty in maintaining concentration
-having.trouble.in.sleeping: Difficulty in sleeping
-having.trouble.with.work: Trouble managing work or tasks
-hopelessness: Feeling of hopelessness
-anger: Experience of anger and frustration
-over.react: Tendency to overreact
-weight.gain: Weight fluctuations
-material.possessions: Attachment to material possessions
-introvert: Introversion tendencies
-popping.up.stressful.memory: Recurrence of stressful memories
-having.nightmares: Frequent nightmares
-avoids.people.or.activities: Avoidance of people or social activities
-feeling.negative: Consistent negative feelings
-trouble.concentrating: Difficulty concentrating
-blaming.yourself: Tendency to blame oneself
-Disorder: Target variable, indicating which mental health disorder an individual have
+- feeling.nervous: Frequency of feeling nervous
+- panic: Occurrence of panic attacks
+- breathing.rapidly: Instances of rapid breathing
+- sweating: Frequency of sweating due to anxiety
+- trouble.in.concentration: Difficulty in maintaining concentration
+- having.trouble.in.sleeping: Difficulty in sleeping
+- having.trouble.with.work: Trouble managing work or tasks
+- hopelessness: Feeling of hopelessness
+- anger: Experience of anger and frustration
+- over.react: Tendency to overreact
+- weight.gain: Weight fluctuations
+- material.possessions: Attachment to material possessions
+- introvert: Introversion tendencies
+- popping.up.stressful.memory: Recurrence of stressful memories
+- having.nightmares: Frequent nightmares
+- avoids.people.or.activities: Avoidance of people or social activities
+- feeling.negative: Consistent negative feelings
+- trouble.concentrating: Difficulty concentrating
+- blaming.yourself: Tendency to blame oneself
+- Disorder: Target variable, indicating which mental health disorder an individual have
